@@ -1,0 +1,9 @@
+{
+	"name": "dfapiuser",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "91ed6d65-3937-447d-a2ad-89e37125cea8",
+		"tenantId": "c91d481c-40b4-4ff9-8f2e-a00df534d8b7"
+	}
+}
